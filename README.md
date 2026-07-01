@@ -1,10 +1,17 @@
-# DualShock 1
+# Trabalho 2 - 2026-1: Pesquisa teórica-exploratória do Dualshock 1
+
+### Link do Vídeo de Apresentação: 
+
+|Nome|Matrícula|
+|----|:-------:|
+| Cauã Araujo dos Santos | 221022490 |
+| Marco Tulio Soares | 221008310 |
+
+## 1. Descrição do Produto Selecionado - DualShock 1
 
 <div align="center">
 <img src="./img/dualshock.png">
 </div>
-
-## 1. Descrição do Produto Selecionado
 
 O **DualShock 1**, também identificado pelo modelo **SCPH-1200**, é um controle desenvolvido pela Sony para o PlayStation original. Ele representa uma evolução em relação ao controle digital padrão do console, pois combina botões digitais, dois direcionais analógicos, botão de alternância de modo analógico e dois motores internos de vibração. Por reunir entradas mecânicas, leitura analógica, processamento interno, comunicação serial com o console e atuação por vibração, o DualShock 1 pode ser analisado como um sistema embarcado periférico.
 

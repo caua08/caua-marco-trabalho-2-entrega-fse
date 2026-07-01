@@ -1,6 +1,6 @@
 # Trabalho 2 - 2026-1: Pesquisa teórica-exploratória do Dualshock 1
 
-### Link do Vídeo de Apresentação: 
+### Link do Vídeo de Apresentação: https://youtu.be/_4HPAx1sdME
 
 |Nome|Matrícula|
 |----|:-------:|
